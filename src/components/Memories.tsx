@@ -7,10 +7,10 @@ export default function Memories() {
         <header className="mx-auto max-w-2xl text-center">
           <p className="text-sm font-medium uppercase tracking-[0.25em] text-rose-600">Chapter one</p>
           <h2 className="mt-4 font-display text-4xl font-medium text-ink-900 sm:text-5xl">
-            Birthday Memories
+            Your Little Memories
           </h2>
           <p className="mt-4 text-base text-ink-700 sm:text-lg">
-            A few of my favourite moments with you, kept safe in little frames.
+            Stay as happy in life as you look in these pictures.May your smile never fade! &#10024;
           </p>
         </header>
 
@@ -18,7 +18,6 @@ export default function Memories() {
           {birthday.memories.map((memory, index) => (
             <figure
               key={memory.image}
-              alt={memory.alt}
               className="group relative overflow-hidden rounded-[2rem] bg-white p-3 shadow-soft transition-all duration-500 hover:-translate-y-2 hover:shadow-card"
               style={{ animation: `fadeUp 0.9s ease-out ${index * 0.15}s both` }}
             >

@@ -28,7 +28,7 @@ export const birthday = {
   memories: [
     {
       image: view,
-      caption: 'Giggles that never run out',
+      caption: 'You look absolutely gorgeous in a saree!', emoji:'🥰',
       alt: 'sari look',
     },
     {
@@ -45,5 +45,6 @@ export const birthday = {
   ],
   socialLinks: {
     instagram: '@dreamy_girl_kp',
+    email: '',
   },
 };
