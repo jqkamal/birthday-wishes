@@ -18,6 +18,7 @@ export default function Memories() {
           {birthday.memories.map((memory, index) => (
             <figure
               key={memory.image}
+              alt={memory.alt}
               className="group relative overflow-hidden rounded-[2rem] bg-white p-3 shadow-soft transition-all duration-500 hover:-translate-y-2 hover:shadow-card"
               style={{ animation: `fadeUp 0.9s ease-out ${index * 0.15}s both` }}
             >
