@@ -1,8 +1,11 @@
+import view from '../images/seri.PNG';
+import bdy from '../images/bdy.PNG';
+import news from '../images/new.PNG';
 export const birthday = {
   friendName: 'karthika',
   age: 26,
   // Month is 1-based (1 = January). Used for the countdown to the next birthday.
-  birthdate: { month: 11, day: 20 },
+  birthdate: { month: 12, day: 13 },
   greeting: 'Happy Birthday',
   tagline: 'A little corner of the internet made just for you.',
   letter: {
@@ -24,20 +27,18 @@ export const birthday = {
   },
   memories: [
     {
-      image:
-        'https://images.pexels.com/photos/8910376/pexels-photo-8910376.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+      image: view,
       caption: 'Giggles that never run out',
-      alt: 'Three friends laughing and taking a selfie outdoors',
+      alt: 'sari look',
     },
     {
-      image:
-        'https://images.pexels.com/photos/10165858/pexels-photo-10165858.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+     
+      image: news,
       caption: 'Candlelit nights and sweet cake',
       alt: 'Friends celebrating a birthday with a candle-lit cake',
     },
     {
-      image:
-        'https://images.pexels.com/photos/13027642/pexels-photo-13027642.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+      image: bdy,
       caption: 'Sunny days and easy company',
       alt: 'Women laughing together on a sunny day outdoors',
     },
