@@ -46,7 +46,7 @@ export default function Footer() {
         )}
 
         <p className="mt-12 text-xs text-rose-200">
-          &copy; {new Date().getFullYear()} Made for {birthday.friendName}
+          &copy; {new Date().getFullYear()} Made for {birthday.friendName} 💖
         </p>
       </div>
     </footer>

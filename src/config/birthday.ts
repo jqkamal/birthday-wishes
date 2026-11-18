@@ -19,27 +19,28 @@ export const birthday = {
   },
   gifts: {
     wishes:
-      'May your coffee be hot, your plans go smoothly, and your heart feel as full as it makes everyone else feel.',
+      'Indha pictures la evlo happy ah irukkiyo🫶🏻, adhe maari un life full ahh happy ahh iru💫🦋 𓆩♡𓆪.indha memories ellame eppovume special ahh irukum💐.wish you many more happy returns of the day🎂🎉. ',
     memories:
       'Every inside joke, late-night conversation, and tiny moment we shared has stayed with me. You are part of my favourite memories.',
     secret:
       'Pack your bags, because the next adventure is already planned. Keep this weekend free and trust me.',
   },
+  
   memories: [
     {
       image: view,
-      caption: 'You look absolutely gorgeous in a saree!', emoji:'🥰',
+      caption: 'You look absolutely gorgeous in a saree!🥰',
       alt: 'sari look',
     },
     {
      
       image: news,
-      caption: 'Candlelit nights and sweet cake',
+      caption: 'New year, new beginnings, and a cake to celebrate it!🎂',
       alt: 'Friends celebrating a birthday with a candle-lit cake',
     },
     {
       image: bdy,
-      caption: 'Sunny days and easy company',
+      caption: 'your last year birthday pictures!🎉',
       alt: 'Women laughing together on a sunny day outdoors',
     },
   ],
