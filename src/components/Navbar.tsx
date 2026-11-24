@@ -37,7 +37,7 @@ export default function Navbar() {
           <span className="flex h-10 w-10 items-center justify-center rounded-full bg-rose-100">
             <Cake className="h-5 w-5" aria-hidden="true" />
           </span>
-          <span className="font-display text-lg font-medium">For {birthday.friendName}  priya &#10084;</span>
+          <span className="font-display text-lg font-medium">For {birthday.friendName}  Priya💗</span>
         </a>
 
         <ul className="hidden items-center gap-8 md:flex">
