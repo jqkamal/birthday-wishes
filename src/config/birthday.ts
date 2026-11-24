@@ -1,6 +1,6 @@
-import view from '../images/seri.png';
-import bdy from '../images/bdy.png';
-import news from '../images/new.png';
+import view from '../images/seri.PNG';
+import bdy from '../images/bdy.PNG';
+import news from '../images/new.PNG';
 export const birthday = {
   friendName: 'karthika',
   age: 26,
