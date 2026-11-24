@@ -1,6 +1,6 @@
-import view from '../images/seri.PNG';
-import bdy from '../images/bdy.PNG';
-import news from '../images/new.PNG';
+import view from '../images/seri.png';
+import bdy from '../images/bdy.png';
+import news from '../images/new.png';
 export const birthday = {
   friendName: 'karthika',
   age: 26,
@@ -9,24 +9,24 @@ export const birthday = {
   greeting: 'Happy Birthday',
   tagline: 'A little corner of the internet made just for you.',
   letter: {
-    salutation: 'My dearest karthika,',
+    salutation: 'Happy Birthday, Beautiful! ❤️🎂🦋',
     paragraphs: [
-      'Another year of you, and the world is a little more beautiful for it. I still remember the small moments we shared that felt like nothing at the time and now feel like treasures.',
-      'I hope this birthday is soft and golden. I hope you eat too much cake, laugh until your cheeks hurt, and finally take the rest you deserve.',
-      'Thank you for being exactly who you are. Here is to the year ahead, and to all the adventures we have yet to plan together.',
+      "I don't know whether you realise how special you are, but honestly, you bring a different kind of happiness whenever I talk to you. 🥹❤️",
+      "Un smile eppovume ippadiye irukkanum. Un dreams ellam nijamaaganum. Life-la nee expect panra ella happiness-um unakku kidaikkanum.",
+      "I may not be the most special person in your life, but you're definitely someone special in mine. ❤️",
     ],
-    signature: 'With all my love, always',
+    signature: 'Keep smiling, stay happy and enjoy your day, princess! 👑✨',
   },
   gifts: {
     wishes:
-      'Indha pictures la evlo happy ah irukkiyo🫶🏻, adhe maari un life full ahh happy ahh iru💫🦋 𓆩♡𓆪.indha memories ellame eppovume special ahh irukum💐.wish you many more happy returns of the day🎂🎉. ',
+      'Indha pictures la evlo happy ah irukkiyo🫶🏻, adhe maari un life full ahh happy ahh iru💫🦋.indha memories ellame eppovume special ahh irukum💐.wish you many more happy returns of the day🎂🎉. ',
     memories:
       'Every inside joke, late-night conversation, and tiny moment we shared has stayed with me. You are part of my favourite memories.',
     secret:
-      'Pack your bags, because the next adventure is already planned. Keep this weekend free and trust me.',
+      "I don't know how to explain this feeling, but whenever I talk to you, I feel happy. ❤️ Can I take you on a date and create some beautiful memories together? 🌙✨",
   },
   
-  memories: [
+  memories:[
     {
       image: view,
       caption: 'You look absolutely gorgeous in a saree!🥰',
