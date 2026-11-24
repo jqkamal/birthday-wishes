@@ -45,7 +45,7 @@ export const birthday = {
     },
   ],
   socialLinks: {
-    instagram: '@dreamy_girl_kp',
+    instagram: '',
     email: '',
   },
 };
