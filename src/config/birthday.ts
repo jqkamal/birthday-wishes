@@ -23,7 +23,7 @@ export const birthday = {
     memories:
       'Every inside joke, late-night conversation, and tiny moment we shared has stayed with me. You are part of my favourite memories.',
     secret:
-      "I don't know how to explain this feeling, but whenever I talk to you, I feel happy. 💗 Can I take you on a date and create some beautiful memories together? 🌙✨",
+      "I don't know how to explain this feeling, but whenever I talk to you, I feel happy.Thank you for time 💗✨",
   },
   
   memories:[
