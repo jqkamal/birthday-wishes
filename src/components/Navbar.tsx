@@ -7,7 +7,7 @@ const links = [
   { href: '#memories', label: 'Memories' },
   { href: '#cake', label: 'Cake' },
   { href: '#gifts', label: 'Gifts' },
-  { href: '#qr', label: 'QR Code' },
+  // { href: '#qr', label: 'QR Code' },
   { href: '#letter', label: 'Letter' },
 ];
 
